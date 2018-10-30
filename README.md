@@ -1,4 +1,4 @@
-# unity-ml-banana
+# Taxi-V2
 This repository contains an implementation of SARSA, SARSA-MAX, and Expected SARSA to solve the Taxi-v2 environment of OpenAI.
 The result is published [here](https://github.com/openai/gym/wiki/Leaderboard#taxi-v2).
 ## Content of this repository
